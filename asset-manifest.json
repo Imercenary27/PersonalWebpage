@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d71cf751.css",
-    "main.js": "/static/js/main.f825d976.js",
+    "main.css": "/static/css/main.75f3cc44.css",
+    "main.js": "/static/js/main.0773e702.js",
     "static/js/453.04492f8d.chunk.js": "/static/js/453.04492f8d.chunk.js",
     "static/media/monopoly.png": "/static/media/monopoly.1649c081db6f10cd6a43.png",
     "static/media/backdrop.jpg": "/static/media/backdrop.da4cc3db33403b34d234.jpg",
@@ -24,12 +24,12 @@
     "static/media/logorajatimage.png": "/static/media/logorajatimage.efde5a4300c49c2f0804.png",
     "static/media/loadingname.svg": "/static/media/loadingname.8240b5f77af26c78a2e64996f8a9398a.svg",
     "index.html": "/index.html",
-    "main.d71cf751.css.map": "/static/css/main.d71cf751.css.map",
-    "main.f825d976.js.map": "/static/js/main.f825d976.js.map",
+    "main.75f3cc44.css.map": "/static/css/main.75f3cc44.css.map",
+    "main.0773e702.js.map": "/static/js/main.0773e702.js.map",
     "453.04492f8d.chunk.js.map": "/static/js/453.04492f8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d71cf751.css",
-    "static/js/main.f825d976.js"
+    "static/css/main.75f3cc44.css",
+    "static/js/main.0773e702.js"
   ]
 }
