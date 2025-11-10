@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f9f4f9c.css",
-    "main.js": "/static/js/main.a7b90291.js",
+    "main.css": "/static/css/main.7d013e6f.css",
+    "main.js": "/static/js/main.774c0557.js",
     "static/js/453.04492f8d.chunk.js": "/static/js/453.04492f8d.chunk.js",
     "static/media/monopoly.png": "/static/media/monopoly.1649c081db6f10cd6a43.png",
     "static/media/logorajat.svg": "/static/media/logorajat.89417807bfc2b83edd7fec081c805cab.svg",
@@ -22,12 +22,12 @@
     "static/media/sihlogo.png": "/static/media/sihlogo.4c9f31e582ea197c4205.png",
     "static/media/hyperledger-fabric.jpg": "/static/media/hyperledger-fabric.48e03818962ee12e1464.jpg",
     "index.html": "/index.html",
-    "main.9f9f4f9c.css.map": "/static/css/main.9f9f4f9c.css.map",
-    "main.a7b90291.js.map": "/static/js/main.a7b90291.js.map",
+    "main.7d013e6f.css.map": "/static/css/main.7d013e6f.css.map",
+    "main.774c0557.js.map": "/static/js/main.774c0557.js.map",
     "453.04492f8d.chunk.js.map": "/static/js/453.04492f8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f9f4f9c.css",
-    "static/js/main.a7b90291.js"
+    "static/css/main.7d013e6f.css",
+    "static/js/main.774c0557.js"
   ]
 }
