@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d013e6f.css",
-    "main.js": "/static/js/main.774c0557.js",
+    "main.css": "/static/css/main.a7e9c0e5.css",
+    "main.js": "/static/js/main.c0a3ff7f.js",
     "static/js/453.04492f8d.chunk.js": "/static/js/453.04492f8d.chunk.js",
     "static/media/monopoly.png": "/static/media/monopoly.1649c081db6f10cd6a43.png",
     "static/media/logorajat.svg": "/static/media/logorajat.89417807bfc2b83edd7fec081c805cab.svg",
-    "static/media/backdrop.jpg": "/static/media/backdrop.da4cc3db33403b34d234.jpg",
     "static/media/cert9.jpeg": "/static/media/cert9.4a58102eed6dfe0d4cc0.jpeg",
     "static/media/cert4.jpeg": "/static/media/cert4.35226525c5aaaf2c3758.jpeg",
     "static/media/cert3.jpeg": "/static/media/cert3.c5f951ac7e66c4f00edc.jpeg",
@@ -22,12 +21,12 @@
     "static/media/sihlogo.png": "/static/media/sihlogo.4c9f31e582ea197c4205.png",
     "static/media/hyperledger-fabric.jpg": "/static/media/hyperledger-fabric.48e03818962ee12e1464.jpg",
     "index.html": "/index.html",
-    "main.7d013e6f.css.map": "/static/css/main.7d013e6f.css.map",
-    "main.774c0557.js.map": "/static/js/main.774c0557.js.map",
+    "main.a7e9c0e5.css.map": "/static/css/main.a7e9c0e5.css.map",
+    "main.c0a3ff7f.js.map": "/static/js/main.c0a3ff7f.js.map",
     "453.04492f8d.chunk.js.map": "/static/js/453.04492f8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d013e6f.css",
-    "static/js/main.774c0557.js"
+    "static/css/main.a7e9c0e5.css",
+    "static/js/main.c0a3ff7f.js"
   ]
 }
