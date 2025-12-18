@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a7e9c0e5.css",
-    "main.js": "/static/js/main.c0a3ff7f.js",
+    "main.js": "/static/js/main.dc45e6a5.js",
     "static/js/453.04492f8d.chunk.js": "/static/js/453.04492f8d.chunk.js",
     "static/media/monopoly.png": "/static/media/monopoly.1649c081db6f10cd6a43.png",
     "static/media/logorajat.svg": "/static/media/logorajat.89417807bfc2b83edd7fec081c805cab.svg",
@@ -22,11 +22,11 @@
     "static/media/hyperledger-fabric.jpg": "/static/media/hyperledger-fabric.48e03818962ee12e1464.jpg",
     "index.html": "/index.html",
     "main.a7e9c0e5.css.map": "/static/css/main.a7e9c0e5.css.map",
-    "main.c0a3ff7f.js.map": "/static/js/main.c0a3ff7f.js.map",
+    "main.dc45e6a5.js.map": "/static/js/main.dc45e6a5.js.map",
     "453.04492f8d.chunk.js.map": "/static/js/453.04492f8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7e9c0e5.css",
-    "static/js/main.c0a3ff7f.js"
+    "static/js/main.dc45e6a5.js"
   ]
 }
