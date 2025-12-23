@@ -1,8 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7e9c0e5.css",
-    "main.js": "/static/js/main.dc45e6a5.js",
-    "static/js/453.04492f8d.chunk.js": "/static/js/453.04492f8d.chunk.js",
+    "main.css": "/static/css/main.57834727.css",
+    "main.js": "/static/js/main.704fc7a1.js",
+    "static/js/453.079ed077.chunk.js": "/static/js/453.079ed077.chunk.js",
+    "static/media/IMG_0061.JPG": "/static/media/IMG_0061.c957b1d6bb7390dc01b1.JPG",
+    "static/media/IMG_9818.JPG": "/static/media/IMG_9818.99574d86f4c92c160c1a.JPG",
+    "static/media/IMG_9791.JPG": "/static/media/IMG_9791.4573395b99cd3d5df1cd.JPG",
+    "static/media/IMG_0059.JPG": "/static/media/IMG_0059.b643d95312a255238976.JPG",
+    "static/media/IMG_0060.JPG": "/static/media/IMG_0060.349dd98fd44f7d1eb8ee.JPG",
+    "static/media/IMG_9825.JPG": "/static/media/IMG_9825.73dcbe72f0c7010c33c3.JPG",
+    "static/media/IMG_0065.JPG": "/static/media/IMG_0065.e36c62bd6ffca8400b95.JPG",
+    "static/media/IMG_9789.JPG": "/static/media/IMG_9789.19777d865b34351a5171.JPG",
+    "static/media/IMG_9815.JPG": "/static/media/IMG_9815.600eafd23a1b11911ae3.JPG",
+    "static/media/IMG_0064.JPG": "/static/media/IMG_0064.5527e82ee3e457fe0c48.JPG",
+    "static/media/IMG_9790.JPG": "/static/media/IMG_9790.ef6c0c7e44a939835d64.JPG",
+    "static/media/IMG_9798.JPG": "/static/media/IMG_9798.5e063cfa64f0c273d5b6.JPG",
+    "static/media/IMG_9791 (1).JPG": "/static/media/IMG_9791 (1).eb92115067f543ae7340.JPG",
+    "static/media/IMG_9790 (1).JPG": "/static/media/IMG_9790 (1).62e089fe3c5b2f6acf2d.JPG",
+    "static/media/IMG_9795 (1).JPG": "/static/media/IMG_9795 (1).868e8d7cf4d877c1c712.JPG",
+    "static/media/IMG_9793 (1).JPG": "/static/media/IMG_9793 (1).133868b766a79abfdfba.JPG",
     "static/media/monopoly.png": "/static/media/monopoly.1649c081db6f10cd6a43.png",
     "static/media/logorajat.svg": "/static/media/logorajat.89417807bfc2b83edd7fec081c805cab.svg",
     "static/media/cert9.jpeg": "/static/media/cert9.4a58102eed6dfe0d4cc0.jpeg",
@@ -21,12 +37,12 @@
     "static/media/sihlogo.png": "/static/media/sihlogo.4c9f31e582ea197c4205.png",
     "static/media/hyperledger-fabric.jpg": "/static/media/hyperledger-fabric.48e03818962ee12e1464.jpg",
     "index.html": "/index.html",
-    "main.a7e9c0e5.css.map": "/static/css/main.a7e9c0e5.css.map",
-    "main.dc45e6a5.js.map": "/static/js/main.dc45e6a5.js.map",
-    "453.04492f8d.chunk.js.map": "/static/js/453.04492f8d.chunk.js.map"
+    "main.57834727.css.map": "/static/css/main.57834727.css.map",
+    "main.704fc7a1.js.map": "/static/js/main.704fc7a1.js.map",
+    "453.079ed077.chunk.js.map": "/static/js/453.079ed077.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7e9c0e5.css",
-    "static/js/main.dc45e6a5.js"
+    "static/css/main.57834727.css",
+    "static/js/main.704fc7a1.js"
   ]
 }
