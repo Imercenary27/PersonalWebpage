@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ba2632f.css",
-    "main.js": "/static/js/main.2d8caba0.js",
-    "static/js/453.079ed077.chunk.js": "/static/js/453.079ed077.chunk.js",
+    "main.css": "/static/css/main.d7af7ccd.css",
+    "main.js": "/static/js/main.779a1b97.js",
+    "static/js/453.c13c8976.chunk.js": "/static/js/453.c13c8976.chunk.js",
     "static/media/IMG_0836.jpg": "/static/media/IMG_0836.c648746e8876da2d92f6.jpg",
     "static/media/IMG_9818.JPG": "/static/media/IMG_9818.99574d86f4c92c160c1a.JPG",
     "static/media/IMG_0059.JPG": "/static/media/IMG_0059.b643d95312a255238976.JPG",
@@ -35,12 +35,12 @@
     "static/media/sihlogo.png": "/static/media/sihlogo.4c9f31e582ea197c4205.png",
     "static/media/hyperledger-fabric.jpg": "/static/media/hyperledger-fabric.48e03818962ee12e1464.jpg",
     "index.html": "/index.html",
-    "main.0ba2632f.css.map": "/static/css/main.0ba2632f.css.map",
-    "main.2d8caba0.js.map": "/static/js/main.2d8caba0.js.map",
-    "453.079ed077.chunk.js.map": "/static/js/453.079ed077.chunk.js.map"
+    "main.d7af7ccd.css.map": "/static/css/main.d7af7ccd.css.map",
+    "main.779a1b97.js.map": "/static/js/main.779a1b97.js.map",
+    "453.c13c8976.chunk.js.map": "/static/js/453.c13c8976.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ba2632f.css",
-    "static/js/main.2d8caba0.js"
+    "static/css/main.d7af7ccd.css",
+    "static/js/main.779a1b97.js"
   ]
 }
